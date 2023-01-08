@@ -1,2 +1,40 @@
 # > Apple Maps
-DOMAIN-SUFFIX,autonavi.net,DIRECT
+HOST-SUFFIX,autonavi.com,DIRECT
+
+# > SPTCC
+HOST-SUFFIX,sptcc.com,DIRECT
+HOST-SUFFIX,nfcos.net.cn,DIRECT
+  
+# > WeChat
+HOST-SUFFIX,qlogo.cn,DIRECT
+HOST-SUFFIX,servicewechat.com,DIRECT
+HOST-SUFFIX,qpic.cn,DIRECT
+HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT
+HOST,dldir1.qq.com,DIRECT
+USER-AGENT,WeChat*,DIRECT
+HOST-SUFFIX,tenpay.com,DIRECT
+HOST-SUFFIX,wechatpay.cn,DIRECT
+HOST,weixin110.qq.com,DIRECT
+HOST,aegis.qq.com,DIRECT
+HOST-SUFFIX,privacy.qq.com,DIRECT
+HOST-SUFFIX,weixinbridge.com,DIRECT
+HOST-SUFFIX,service.qq.com,DIRECT
+HOST,kf.qq.com,DIRECT
+HOST-SUFFIX,res.wx.qq.com,DIRECT
+HOST-SUFFIX,wx.gtimg.com,DIRECT
+HOST-SUFFIX,cdn-go.cn,DIRECT
+HOST-SUFFIX,sh.gov.cn,DIRECT
+HOST-SUFFIX,eshimin.com,DIRECT
+HOST-KEYWORD,suishenban,DIRECT
+HOST-SUFFIX,map.qq.com,DIRECT
+HOST-SUFFIX,luckincoffeecdn.com,DIRECT
+HOST-SUFFIX,lkcoffee.com,DIRECT
+HOST-SUFFIX,sf-express.com,DIRECT
+HOST-SUFFIX,mcdonalds.com.cn,DIRECT
+HOST-SUFFIX,mcd.cn,DIRECT
+HOST-SUFFIX,meituan.com,DIRECT
+HOST-SUFFIX,meituan.net,DIRECT
+IP-CIDR,112.65.193.0/24,DIRECT
+IP-CIDR,116.128.133.0/24,DIRECT
+IP-CIDR,116.136.168.0/24,DIRECT
+IP-CIDR,220.196.186.0/24,DIRECT
