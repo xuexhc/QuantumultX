@@ -180,3 +180,6 @@ HOST-SUFFIX,doubleclick.net,REJECT
 
 # > Amazon
 HOST-SUFFIX,amazon-adsystem.com,REJECT
+
+# > Baidu
+HOST-SUFFIX,baidu.com,DIRECT
