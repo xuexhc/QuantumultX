@@ -54,3 +54,120 @@ HOST-SUFFIX,mayibao.cn,DIRECT
 HOST-SUFFIX,taobao.com,DIRECT
 HOST-SUFFIX,tmall.com,DIRECT
 HOST-SUFFIX,mybank.cn,DIRECT
+
+# > DDMC
+HOST-SUFFIX,ddimg.mobi,DIRECT
+HOST-SUFFIX,ddxq.mobi,DIRECT
+
+# > Bilibili
+HOST-SUFFIX,bilibili.com,DIRECT
+HOST-SUFFIX,bilivideo.com,DIRECT
+HOST-SUFFIX,biliimg.com,DIRECT
+HOST-SUFFIX,hdslb.com,DIRECT
+HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,DIRECT
+HOST-SUFFIX,biliapi.net,DIRECT
+HOST-SUFFIX,biliapi.com,DIRECT
+HOST-SUFFIX,biligame.com,DIRECT
+USER-AGENT,*bili*,DIRECT
+USER-AGENT,Bilibili*,DIRECT
+USER-AGENT,bili*,DIRECT
+USER-AGENT,bili-inter*,DIRECT
+HOST-SUFFIX,appsflyer.com,REJECT
+HOST-KEYWORD,api.sobot.com,REJECT
+
+# > Weibo Lite
+HOST-SUFFIX,sinaimg.cn,DIRECT
+HOST-SUFFIX,weibo.cn,DIRECT
+HOST-SUFFIX,weibo.com,DIRECT
+HOST-SUFFIX,weibocdn.com,DIRECT
+HOST-SUFFIX,sinajs.cn,DIRECT
+HOST-SUFFIX,sina.com.cn,DIRECT
+HOST-SUFFIX,sinastorage.com,DIRECT
+HOST-SUFFIX,at.umtrack.com,DIRECT
+HOST-SUFFIX,qzs.gdtimg.com,REJECT
+HOST-SUFFIX,umeng.com,REJECT
+HOST-SUFFIX,umengcloud.com,REJECT
+HOST-SUFFIX,biz.weibo.com,REJECT
+HOST-SUFFIX,sdkapp.uve.weibo.com,REJECT
+HOST-SUFFIX,h.trace.qq.com,REJECT
+HOST-SUFFIX,ios.bugly.qq.com,REJECT
+HOST-SUFFIX,e.qq.com,REJECT
+HOST-SUFFIX,mi.gdt.qq.com,REJECT
+HOST-SUFFIX,shuzilm.cn,REJECT
+HOST-SUFFIX,miaozhen.com,REJECT
+HOST-SUFFIX,mm2.365dmp.com,REJECT
+HOST-SUFFIX,cgi.connect.qq.com,REJECT
+
+# > Gcores
+HOST-SUFFIX,gcores.com,DIRECT
+HOST-SUFFIX,tapimg.com,DIRECT
+HOST-SUFFIX,taptap.com,DIRECT
+HOST,jihe.datasink.sensorsdata.cn,DIRECT
+HOST-SUFFIX,jpush.cn,REJECT
+HOST-SUFFIX,jpush.io,REJECT
+
+# > XCF
+HOST-SUFFIX,xiachufang.com,DIRECT
+HOST-SUFFIX,chuimg.com,DIRECT
+HOST-SUFFIX,e.kuaishou.com,REJECT
+HOST-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+HOST-KEYWORD,sdk.open.talk.getui.net,REJECT
+HOST-SUFFIX,track.xiachufang.com,REJECT
+HOST,tnc3-aliec2.snssdk.com,REJECT
+HOST,ossgw.alicdn.com,REJECT
+HOST,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+
+# > CMBCHINA
+HOST-SUFFIX,cmbchina.com,DIRECT
+HOST-SUFFIX,cmbimg.com,DIRECT
+HOST,mbmodule-openapi.paas.cmbchina.com,REJECT
+
+# > XHH
+HOST-SUFFIX,max-c.com,DIRECT
+HOST-SUFFIX,xiaoheihe.com,DIRECT
+HOST-SUFFIX,xiaoheihe.cn,DIRECT
+HOST-SUFFIX,maxjia.com,DIRECT
+HOST,hm.baidu.com,REJECT
+HOST-SUFFIX,mob.com,REJECT
+  
+# > Dian Ping
+HOST-SUFFIX,meituan.net,DIRECT
+HOST-SUFFIX,meituan.com,DIRECT
+HOST-SUFFIX,dpfile.com,DIRECT
+HOST-SUFFIX,dianping.com,DIRECT
+HOST-SUFFIX,sankuai.com,DIRECT
+HOST-SUFFIX,report.meituan.com,REJECT
+HOST-SUFFIX,analytics.meituan.net,REJECT
+
+# > CHINATAX
+HOST-SUFFIX,chinatax.gov.cn,DIRECT
+HOST,cf.aliyun.com,DIRECT
+HOST,ynuf.aliapp.org,DIRECT
+HOST-SUFFIX,mmstat.com,REJECT
+HOST,restapi.amap.com,REJECT
+
+# > China Unicom
+HOST-SUFFIX,10010.com,DIRECT
+HOST-SUFFIX,10010.cn,DIRECT
+HOST,m1.ad.10010.com,REJECT
+
+# > Taobao
+HOST-SUFFIX,tanx.com,REJECT
+  
+# > Xianyu
+HOST-SUFFIX,goofish.com,DIRECT
+HOST-SUFFIX,applog.uc.cn,REJECT
+HOST,iyes.youku.com,REJECT
+HOST-SUFFIX,unilog.wostore.cn,REJECT
+
+# > QQ
+HOST,sqdd.myapp.com,REJECT
+  
+# > eBay
+HOST-SUFFIX,app-measurement.com,REJECT
+
+# > Apollo
+HOST-SUFFIX,doubleclick.net,REJECT
+
+# > Amazon
+HOST-SUFFIX,amazon-adsystem.com,REJECT
