@@ -165,6 +165,7 @@ HOST-SUFFIX,tanx.com,REJECT
   
 # > Xianyu
 HOST-SUFFIX,goofish.com,DIRECT
+HOST-SUFFIX,alibabausercontent.com,DIRECT
 HOST-SUFFIX,applog.uc.cn,REJECT
 HOST,iyes.youku.com,REJECT
 HOST-SUFFIX,unilog.wostore.cn,REJECT
