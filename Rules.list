@@ -144,7 +144,6 @@ HOST-SUFFIX,max-c.com,DIRECT
 HOST-SUFFIX,xiaoheihe.com,DIRECT
 HOST-SUFFIX,xiaoheihe.cn,DIRECT
 HOST-SUFFIX,maxjia.com,DIRECT
-#HOST-SUFFIX,dolfincdnx.cn,DIRECT
 HOST,hm.baidu.com,REJECT
 HOST-SUFFIX,mob.com,REJECT
   
