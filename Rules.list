@@ -120,6 +120,7 @@ HOST-SUFFIX,gcores.com,DIRECT
 HOST-SUFFIX,tapimg.com,DIRECT
 HOST-SUFFIX,taptap.com,DIRECT
 HOST,jihe.datasink.sensorsdata.cn,DIRECT
+HOST-SUFFIX,taptap.cn,DIRECT
 HOST-SUFFIX,jpush.cn,REJECT
 HOST-SUFFIX,jpush.io,REJECT
 
