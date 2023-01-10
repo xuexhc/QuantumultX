@@ -213,4 +213,5 @@ HOST-SUFFIX,doubleclick.net,REJECT
 HOST-SUFFIX,amazon-adsystem.com,REJECT
 
 # > Baidu
-HOST-KEYWORD,baidu,DIRECT
+HOST-SUFFIX,baidu.com,DIRECT
+HOST-SUFFIX,bdimg.com,DIRECT
