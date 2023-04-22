@@ -16,7 +16,7 @@ HOST-SUFFIX,nfcos.net.cn,DIRECT
   
 # > WeChat
 HOST-SUFFIX,qlogo.cn,DIRECT
-//HOST-SUFFIX,servicewechat.com,DIRECT
+HOST-SUFFIX,servicewechat.com,DIRECT
 HOST-SUFFIX,qpic.cn,DIRECT
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT
 HOST,dldir1.qq.com,DIRECT
