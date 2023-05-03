@@ -27,7 +27,7 @@ HOST,weixin110.qq.com,DIRECT
 HOST,aegis.qq.com,DIRECT
 HOST-SUFFIX,privacy.qq.com,DIRECT
 HOST-SUFFIX,weixinbridge.com,DIRECT
-HOST-SUFFIX,service.qq.com,DIRECT
+//HOST-SUFFIX,service.qq.com,DIRECT
 HOST,kf.qq.com,DIRECT
 HOST-SUFFIX,res.wx.qq.com,DIRECT
 HOST-SUFFIX,wx.gtimg.com,DIRECT
