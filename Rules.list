@@ -114,7 +114,7 @@ HOST-SUFFIX,shuzilm.cn,REJECT
 HOST-SUFFIX,miaozhen.com,REJECT
 HOST-SUFFIX,mm2.365dmp.com,REJECT
 HOST-SUFFIX,cgi.connect.qq.com,REJECT
-
+HOST-SUFFIX,v2.gdt.qq.com,REJECT
 
 # > Gcores
 HOST-SUFFIX,gcores.com,DIRECT
