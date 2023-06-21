@@ -93,8 +93,8 @@ HOST-SUFFIX,appsflyer.com,REJECT
 HOST-KEYWORD,api.sobot.com,REJECT
 
 # > Weibo Lite
-HOST-SUFFIX,sinaimg.cn,PROXY
-HOST-SUFFIX,weibo.cn,PROXY
+HOST-SUFFIX,sinaimg.cn,DIRECT
+HOST-SUFFIX,weibo.cn,DIRECT
 HOST-SUFFIX,weibo.com,DIRECT
 HOST-SUFFIX,weibocdn.com,DIRECT
 HOST-SUFFIX,sinajs.cn,DIRECT
@@ -114,7 +114,6 @@ HOST-SUFFIX,shuzilm.cn,REJECT
 HOST-SUFFIX,miaozhen.com,REJECT
 HOST-SUFFIX,mm2.365dmp.com,REJECT
 HOST-SUFFIX,cgi.connect.qq.com,REJECT
-HOST-SUFFIX,v2.gdt.qq.com,REJECT
 
 # > Gcores
 HOST-SUFFIX,gcores.com,DIRECT
