@@ -94,7 +94,7 @@ HOST-KEYWORD,api.sobot.com,REJECT
 
 # > Weibo Lite
 HOST-SUFFIX,sinaimg.cn,PROXY
-HOST-SUFFIX,weibo.cn,DIRECT
+HOST-SUFFIX,weibo.cn,PROXY
 HOST-SUFFIX,weibo.com,DIRECT
 HOST-SUFFIX,weibocdn.com,DIRECT
 HOST-SUFFIX,sinajs.cn,DIRECT
