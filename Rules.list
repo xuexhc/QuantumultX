@@ -13,6 +13,7 @@ HOST-SUFFIX,autonavi.com,DIRECT
 # > SPTCC
 HOST-SUFFIX,sptcc.com,DIRECT
 HOST-SUFFIX,nfcos.net.cn,DIRECT
+HOST,frontend.fmswift.net,DIRECT
   
 # > WeChat
 HOST-SUFFIX,qlogo.cn,DIRECT
