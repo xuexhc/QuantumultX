@@ -141,6 +141,9 @@ HOST-SUFFIX,cmbchina.com,DIRECT
 HOST-SUFFIX,cmbimg.com,DIRECT
 HOST,mbmodule-openapi.paas.cmbchina.com,REJECT
 
+# > BOSC
+HOST-SUFFIX,bosc.cn,DIRECT
+
 # > XHH
 HOST-SUFFIX,max-c.com,DIRECT
 HOST-SUFFIX,xiaoheihe.com,DIRECT
