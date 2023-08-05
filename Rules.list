@@ -147,6 +147,9 @@ HOST-SUFFIX,bosc.cn,DIRECT
 # > BOC
 HOST-SUFFIX,boc.cn,DIRECT
 
+# > ICBC
+HOST-SUFFIX,icbc.com.cn,DIRECT
+
 # > XHH
 HOST-SUFFIX,max-c.com,DIRECT
 HOST-SUFFIX,xiaoheihe.com,DIRECT
