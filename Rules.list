@@ -226,3 +226,7 @@ HOST-SUFFIX,amazon-adsystem.com,REJECT
 # > Baidu
 HOST-SUFFIX,baidu.com,DIRECT
 HOST-SUFFIX,bdimg.com,DIRECT
+
+# > XHS
+HOST-SUFFIX,xiaohongshu.com,DIRECT
+HOST-SUFFIX,xhscdn.com,DIRECT
