@@ -245,3 +245,6 @@ HOST-SUFFIX,bosszhipin.com,DIRECT
 # > ABCHINA
 HOST-SUFFIX,abchina.com.cn,DIRECT
 HOST-SUFFIX,abchina.com,DIRECT
+
+# > SPDB
+HOST-SUFFIX,spdb.com.cn,DIRECT
