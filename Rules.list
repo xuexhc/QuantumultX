@@ -248,3 +248,6 @@ HOST-SUFFIX,abchina.com,DIRECT
 
 # > SPDB
 HOST-SUFFIX,spdb.com.cn,DIRECT
+
+# > Bmac
+HOST-SUFFIX,bmac.com.cn,DIRECT
