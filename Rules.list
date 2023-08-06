@@ -241,3 +241,7 @@ HOST-SUFFIX,51jobcdn.com,DIRECT
 # > Boss
 HOST-SUFFIX,zhipin.com,DIRECT
 HOST-SUFFIX,bosszhipin.com,DIRECT
+
+# > ABCHINA
+HOST-SUFFIX,abchina.com.cn,DIRECT
+HOST-SUFFIX,abchina.com,DIRECT
