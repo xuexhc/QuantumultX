@@ -233,3 +233,6 @@ HOST-SUFFIX,xhscdn.com,DIRECT
 
 # > Coremail
 HOST-SUFFIX,lunkr.cn,DIRECT
+
+# > 51Job
+HOST-SUFFIX,51jobcdn.com,DIRECT
