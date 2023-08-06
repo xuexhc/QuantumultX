@@ -237,3 +237,7 @@ HOST-SUFFIX,lunkr.cn,DIRECT
 # > 51Job
 HOST-SUFFIX,51job.com,DIRECT
 HOST-SUFFIX,51jobcdn.com,DIRECT
+
+# > Boss
+HOST-SUFFIX,zhipin.com,DIRECT
+HOST-SUFFIX,bosszhipin.com,DIRECT
