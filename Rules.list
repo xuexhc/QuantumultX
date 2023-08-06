@@ -230,3 +230,6 @@ HOST-SUFFIX,bdimg.com,DIRECT
 # > XHS
 HOST-SUFFIX,xiaohongshu.com,DIRECT
 HOST-SUFFIX,xhscdn.com,DIRECT
+
+# > Coremail
+HOST-SUFFIX,lunkr.cn,DIRECT
